@@ -1,2 +1,1 @@
-RewriteEngine On 
-RewriteRule ^(.*)$ https://www.firstlineproject.com.br/$1 [R,L]
+
