@@ -1,1 +1,1 @@
-Redirect 302 "/redirect" "https://www.google.com"
+Redirect 302 /redirect https://www.google.com
