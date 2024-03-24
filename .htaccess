@@ -1,2 +1,3 @@
-RedirectMatch 302 ^/redirect.html https://www.google.com/
+/* RedirectMatch 302 ^/redirect.html https://www.google.com/ */
+Redirect 302 / http://newwebsitehere.com/
 
