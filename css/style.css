@@ -191,7 +191,7 @@ body {
 
 @import url(https://fonts.cdnfonts.com/css/blacksword);
 #login-title {
-	font-family: 'Blacksword', sans-serif;
+	font-family: Blacksword, sans-serif;
 	text-align: center;
 	/*font-family: Arial, sans-serif;*/
 	margin-top: 0;
