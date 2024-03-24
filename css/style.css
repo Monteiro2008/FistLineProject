@@ -189,7 +189,7 @@ body {
 	padding: 40px;
 }
 
-@import url('https://fonts.cdnfonts.com/css/blacksword');
+@import url(https://fonts.cdnfonts.com/css/blacksword);
 #login-title {
 	font-family: 'Blacksword', sans-serif;
 	text-align: center;
