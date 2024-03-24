@@ -189,15 +189,9 @@ body {
 	padding: 40px;
 }
 
-@font-face {
-  font-family: Blacksword;
-  src: url(https://fonts.cdnfonts.com/s/15024/Blacksword.woff;
-}
-/*@import url(https://fonts.cdnfonts.com/css/blacksword);*/
 #login-title {
-	font-family: Blacksword;
 	text-align: center;
-	/*font-family: Arial, sans-serif;*/
+	font-family: Arial, sans-serif;
 	margin-top: 0;
 	font-size: 26px;
 	margin-bottom: 30px;
